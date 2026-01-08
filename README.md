@@ -8,7 +8,7 @@ Build Tool: Gradle
 Database: Postgresql
 API Style: RESTful endpoints
 
-# Endpoints:
+# ▶️ Endpoints:
 GET /api/todos → List all tasks
 
 POST /api/todos → Add a new task
